@@ -1,0 +1,12 @@
+domainShort: 'zoeyrae'
+domainLong: 'www.zoeyrae'
+rootDomain: 'zoeyrae.com'
+fullDomain: 'zoeyrae.com'
+
+
+
+ipv4: '75.65.46.212'
+ipv6: '2601:3ca:4100:8eca:28e4:356c:2732:9749'
+LetsEncrypt: 'Production'
+mysqluser: "root"
+mysqlHost: "127.0.0.1"
